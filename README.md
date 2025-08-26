@@ -22,6 +22,17 @@ A simple and fun Rock–Paper–Scissors game built with **JavaScript**. Play ag
 
 ## 🖥️ Demo
 👉 [Play the Game Here](https://pinjarlamanideep.github.io/Rock-Paper-Scissor/)  
+Open the project folder
+
+Run the index.html file in your browser
+---
+🔧 Tech Stack
+
+HTML5 – structure
+
+CSS3 – styling
+
+JavaScript (ES6) – game logic
 
 ---
 
