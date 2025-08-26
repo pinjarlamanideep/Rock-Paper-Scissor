@@ -21,11 +21,11 @@ A simple and fun Rock–Paper–Scissors game built with **JavaScript**. Play ag
 ---
 
 ## 🖥️ Demo
-👉 [Play the Game Here](https://pinjarlamanideeo.github.io/Rock-Paper-Scissor/)  
+👉 [Play the Game Here](https://pinjarlamanideep.github.io/Rock-Paper-Scissor/)  
 
 ---
 
 ## 📂 Installation / How to Run
 1. Clone this repository  
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/pinjarlamanideepour-username/Rock-Paper-Scissor
